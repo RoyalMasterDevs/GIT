@@ -1,6 +1,6 @@
-git init
-git branch master -M main 
+#git init
+#git branch master -M main 
 
-git add archivo.exe 
-git commit "primer commit"
-git push
+#git add archivo.exe 
+#git commit "primer commit"
+#git push --set-upstream origin main
