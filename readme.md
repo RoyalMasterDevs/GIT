@@ -59,7 +59,7 @@
 
 ![image info](./Screenshot%20from%202023-04-28%2018-36-17.png)
 
-### git squash
+### git merge --squash <no.Commit>
 
 #### Combina tu rama "feature" y la rama principal "main" del proyecto, de una manera mas "destructiva" no dejando rastro del proyecto y haciendo que la nueva rama principal pierda el historial, al hacer un squash el ultimo commit que hagas sera tu nuevo HEAD en la rama "main".
 
