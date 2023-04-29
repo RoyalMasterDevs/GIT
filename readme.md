@@ -24,15 +24,15 @@
 
 ### git push --set-upstream origin main
 
-### establece la rama a donde se enviaran los archivos, este comando solo se hace la primera vez que haces un push. En la siguiente vez que subas algun cambio solo basta que hagas 
+### Establece la rama a donde se enviaran los archivos, este comando solo se hace la primera vez que haces un push. En la siguiente vez que subas algun cambio solo basta que hagas 
 
 ## git push
 
 # Algunos comandos adicionales que debes conocer
 
-## Las diferentes formas de combinar tus ramas de desarrollo en la rama principal. Supongamos que tienes una rama principal llamda "main" y una rama que estas desarrollando tu, que llamaremos "feature".
+## Las diferentes formas de combinar tus ramas de desarrollo en la rama principal. Supongamos que tienes una rama principal llamada "main" y una rama que estas desarrollando tu, que llamaremos "feature".
 
-## git merge (fusiona dos ramas en tu proyecto)
+## git merge
 
 ### combina tu rama "feature" y la rama principal "main" del proyecto, conservando el arbol completo del proceso, es decir todas las ramas las puedes ver si haces --git-log-oneline
 
